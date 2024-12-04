@@ -1,9 +1,9 @@
 # 🌸 CSE485Lab2
 
 ## 👥 Thành viên
-- **Nguyễn Kiều Anh**
-- **Nguyễn Hoàng Anh**
-- **Nguyễn Tiến Đạt**
+- **Nguyễn Kiều Anh** -- 2251172232
+- **Nguyễn Hoàng Anh** -- 2251172231
+- **Nguyễn Tiến Đạt** -- 2251172270
 
 ## 🔍 Giới thiệu
 Dự án này là một phần của khóa học CSE485. Mục tiêu của dự án là thực hành và phát triển kỹ năng lập trình của chúng tôi thông qua việc xây dựng một ứng dụng web cơ bản.
