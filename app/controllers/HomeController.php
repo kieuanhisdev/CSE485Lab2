@@ -10,6 +10,6 @@ class HomeController{
         $newsService = new NewsService();
         $news = $newsService->getAllNews();
         
-        include APP_ROOT . '/app/views/home/index.php';
+        include APP_ROOT . '/app/views/news/detail.php';
     }
 }
